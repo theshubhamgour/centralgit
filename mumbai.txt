@@ -4,3 +4,4 @@ Here is the another line of the code
 
 Adding some more lines of test from singapure location
 Here is another one
+Append
